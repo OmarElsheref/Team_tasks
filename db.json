@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "firstName": "Omar",
+      "lastName": "Ahmed",
+      "email": "OmarAhmed@gmail.com",
+      "Mobile": "01545676623",
+      "password": "12345678",
+      "RetypePassword": "12345678",
+      "id": 1
+    },
+    {
+      "firstName": "Ali",
+      "lastName": "Mohamed",
+      "email": "AliMohamed@gmail.com",
+      "Mobile": "01245678923",
+      "password": "123456",
+      "RetypePassword": "123456",
+      "id": 2
+    }
+  ]
+}
